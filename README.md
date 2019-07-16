@@ -1,1 +1,1 @@
-https://mihailsushko.github.io/mihailsushko/index.html
+https://mihailsushko.github.io/js-g14/src/index.html
